@@ -27,7 +27,7 @@
 
 ### 🎯│ Objetivo:
 
-Crie uma classe generica que represente um herói de uma aventura e que possua as seguintes propriedades:
+Crie uma classe genérica que represente um herói de uma aventura e que possua as seguintes propriedades:
 
 - nome
 - idade
@@ -35,9 +35,9 @@ Crie uma classe generica que represente um herói de uma aventura e que possua a
 
 <br>
 
-além disso, deve ter um método chamado atacar que deve atender os seguientes requisitos:
+além disso, deve ter um método chamado atacar que deve atender os seguintes requisitos:
 
-- exibir a mensagem: "o {tipo} atacou usando {ataque}")
+- exibir a mensagem: "o {tipo} atacou usando {ataque}"
 - aonde o {tipo} deve ser concatenando o tipo que está na propriedade da classe
 - e no {ataque} deve seguir uma descrição diferente conforme o tipo, seguindo a tabela abaixo:
 
@@ -45,12 +45,12 @@ além disso, deve ter um método chamado atacar que deve atender os seguientes r
 
 <p align="center">
 
-| 🛠 Condição       | 🏆 Resultado                              |
-| ----------------- |:-----------------------------------------:|
-| se mago           | no ataque exibir (usou magia)             |
-| se guerreiro      | no ataque exibir (usou espada)            |
-| se monge          | no ataque exibir (usou artes marciais)    |
-| se ninja          | no ataque exibir (usou shuriken)          |
+| 🛠 Condição  | 🏆 Resultado                           |
+| ------------ |:--------------------------------------:|
+| se mago      | no ataque exibir (usou magia)          |
+| se guerreiro | no ataque exibir (usou espada)         |
+| se monge     | no ataque exibir (usou artes marciais) |
+| se ninja     | no ataque exibir (usou shuriken)       |
 
 </p>
 
